@@ -1,1 +1,1 @@
-This folder contains simulation file for other representative physical reservoir computing systems:  a skyrmion enhanced strain-mediated physical reservoir system and an α-In2Se3 optoelectronic synapse physical reservoir system.
+This folder contains simulation files for other representative physical reservoir computing systems:  a skyrmion enhanced strain-mediated physical reservoir system and an α-In2Se3 optoelectronic synapse physical reservoir system.
