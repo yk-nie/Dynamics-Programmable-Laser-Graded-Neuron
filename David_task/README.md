@@ -2,7 +2,7 @@ This folder contains the following code files for the **David temperature predic
 
 - David_static_sigmoid.ipynb: static sigmoid model.
 - David_different_nonlinearity.ipynb: static nonlinear model with different nonlinear functions.
-- David_tunable_sigmoid.ipynb: static sigmoid model when tuning the shape of the sigmoid functions.
+- David_tunable_sigmoid.ipynb: static sigmoid model when tuning the shape of the sigmoid function.
 - David_MLP.ipynb: MLP model.
 - continuous dataset.csv: original dataset
 
